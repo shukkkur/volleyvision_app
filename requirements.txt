@@ -18,3 +18,5 @@ torchvision
 tqdm==4.64.1
 wandb==0.15.3
 ultralytics
+django_heroku
+gunicorn
