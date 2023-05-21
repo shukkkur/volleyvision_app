@@ -2,8 +2,6 @@ albumentations==1.3.0
 Django==4.2.1
 matplotlib==3.6.2
 numpy==1.23.5
-onnx==1.14.0
-onnx_graphsurgeon==0.0.1.dev5
 opencv_python_headless==4.7.0.72
 pafy==0.5.5
 pandas==1.5.2
